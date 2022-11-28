@@ -13,7 +13,7 @@ Allows you to set the weight of a selection to a specific mass/weight in Fusion 
 ## Usage
 1. Go to the `Utilities` Tab in Fusion 360
 2. Click `Add-Ins > Scripts and Add-Ins...`
-3. Double Click SetPartWeight
+3. Double Click SetPartMass
 <img width="342" alt="Screen Shot 2022-11-28 at 11 41 47 AM" src="https://user-images.githubusercontent.com/12686250/204332888-d58bf614-46bb-4544-a357-8bb0bfda1b19.png">
 
 4. You will have a window open like this
