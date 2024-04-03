@@ -163,7 +163,7 @@ class ApplyWeightHandler(adsk.core.CommandEventHandler):
             mass = massInput.value*1000
             density = (mass / volume)*1000
 
-            matLib = app.materialLibraries.itemByName('Fusion 360 Material Library')
+            matLib = app.materialLibraries.itemByName('Fusion Material Library')
             existingMaterial = matLib.materials.itemByName('Steel')
 
 
