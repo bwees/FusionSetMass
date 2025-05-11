@@ -1,10 +1,10 @@
 {
-	"autodeskProduct":	"Fusion360",
-	"type":	"script",
-	"author":	"",
-	"description":	{
-		"":	""
-	},
-	"supportedOS":	"windows|mac",
-	"editEnabled":	true
+    "autodeskProduct": "Fusion360",
+    "type": "script",
+    "author": "bwees",
+    "description": {
+        "": ""
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": false
 }
